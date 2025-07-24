@@ -7,6 +7,8 @@ The way SQL injections are constructed is by the use of escape characters such a
 For example, let's say we had some logic such as the following (in pseudocode):
 
 ```
+this is a dummy change
+
 username := user input from HTML form
 password := user input from HTML form
 hashedPassword := md5(password)
